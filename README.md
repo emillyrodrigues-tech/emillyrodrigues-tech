@@ -94,18 +94,6 @@ Sistema bancário desenvolvido em Python, com foco em operações financeiras, l
 
 ---
 
-## 🎓 Formação acadêmica
-
-**Análise e Desenvolvimento de Sistemas — UNICID**
-
-Graduação em andamento | Previsão de conclusão: 2027.
-
-**Técnico em Logística — ETEC Itaquera II**
-
-Ensino Médio integrado ao curso técnico.
-
----
-
 ## 🌸 Estatísticas do GitHub
 
 <div align="center">
