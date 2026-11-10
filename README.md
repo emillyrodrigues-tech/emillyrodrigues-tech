@@ -36,7 +36,7 @@ Tenho interesse especial em:
 - Automação de processos e integração de APIs.
 - Processamento e análise de dados.
 - Desenvolvimento Back-end.
-- Sistemas escaláveis e inovação para o setor financeiro.
+- Sistemas escaláveis.
 
 Acredito que a tecnologia vai além de escrever código: ela deve simplificar processos, conectar pessoas e transformar ideias em soluções que geram valor.
 
