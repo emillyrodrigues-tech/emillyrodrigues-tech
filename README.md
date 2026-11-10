@@ -80,18 +80,6 @@ Sistema bancário desenvolvido em Python, com foco em operações financeiras, l
 <img src="https://img.shields.io/badge/Visualizar%20projeto-FCEEF3?style=for-the-badge&logo=github&logoColor=C58CA5"/>
 </a>
 
-### 02. Arkhan Security
-
-Projeto acadêmico que conecta tecnologia e logística, com uma proposta voltada à segurança de motoristas, monitoramento de rotas e infraestrutura de apoio.
-
-**Foco:** inovação, segurança, tecnologia aplicada e otimização de processos logísticos.
-
-### 03. Projetos de prototipagem e desenvolvimento
-
-Exploração de ideias, interfaces e soluções digitais por meio de ferramentas de desenvolvimento e prototipagem.
-
-**Ferramentas:** Replit, Canva, HTML, CSS e JavaScript.
-
 ---
 
 ## 📚 Atualmente estudando
